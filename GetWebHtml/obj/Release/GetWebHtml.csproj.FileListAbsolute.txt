@@ -1,0 +1,6 @@
+C:\Users\xiaoke\documents\visual studio 2013\Projects\GetWebHtml\GetWebHtml\bin\Release\GetWebHtml.exe.config
+C:\Users\xiaoke\documents\visual studio 2013\Projects\GetWebHtml\GetWebHtml\bin\Release\GetWebHtml.exe
+C:\Users\xiaoke\documents\visual studio 2013\Projects\GetWebHtml\GetWebHtml\bin\Release\GetWebHtml.pdb
+C:\Users\xiaoke\documents\visual studio 2013\Projects\GetWebHtml\GetWebHtml\obj\Release\GetWebHtml.csprojResolveAssemblyReference.cache
+C:\Users\xiaoke\documents\visual studio 2013\Projects\GetWebHtml\GetWebHtml\obj\Release\GetWebHtml.exe
+C:\Users\xiaoke\documents\visual studio 2013\Projects\GetWebHtml\GetWebHtml\obj\Release\GetWebHtml.pdb
